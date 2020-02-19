@@ -20,7 +20,7 @@ def main():
     cap = cv.VideoCapture(0)
 
     # EeLフォルダ設定、および起動 #########################################################
-    eel.init('web')
+    eel.init('webslides')
     eel.start(
         'index.html',
         mode='chrome',
