@@ -27,7 +27,7 @@ cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 # WebSlides 1.5.0 License 
 MIT License
 
-Copyright (c) 2017 Jos? Luis Ant?nez
+Copyright (c) 2017 José Luis Antúnez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
