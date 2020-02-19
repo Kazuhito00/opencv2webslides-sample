@@ -28,7 +28,7 @@ python opencv2webslides.py
 高橋かずひと
  
 # License 
-cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+opencv2webslides_sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 # WebSlides 1.5.0 License 
 MIT License
