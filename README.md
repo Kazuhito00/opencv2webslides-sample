@@ -1,5 +1,7 @@
 # opencv2webslides_sample
 opencv2webslides_sampleはEel上でWebSlidesを実行し、スライド中にOpenCVの画像を表示するサンプルです。
+スライド表示にWebSlides(https://webslides.tv/)を利用しています。
+
 * EelはElectronライクなHTML/JS/CSSのGUIアプリを作成できるシンプルなライブラリです。
 * WebSlidesはHTML/CSS/JSで作られたプレゼンテーションのフレームワークです。
 
