@@ -24,7 +24,7 @@ WebカメラがPCに接続されている必要があります。
 python opencv2webslides.py
 ```
 
-* Work example
+# Work example
 [![](https://img.youtube.com/vi/yNpvhuMLjgg/0.jpg)](https://www.youtube.com/watch?v=yNpvhuMLjgg)
 
 # Author
