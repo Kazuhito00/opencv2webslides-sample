@@ -6,6 +6,9 @@ opencv2webslides_sampleはEel上でWebSlidesを実行し、スライド中にOpe
 * EelはElectronライクなHTML/JS/CSSのGUIアプリを作成できるシンプルなライブラリです。
 * WebSlidesはHTML/CSS/JSで作られたプレゼンテーションのフレームワークです。
 
+![3l4eb-4tjru](https://user-images.githubusercontent.com/37477845/74838953-cd572a00-5367-11ea-9d3e-2e41cda90a54.gif)
+
+
 # Requirement
  
 * OpenCV 3.4.2
