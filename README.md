@@ -1,9 +1,7 @@
 # opencv2webslides_sample
-opencv2webslides_sample‚ÍEelã‚ÅWebSlides‚ğÀs‚µAƒXƒ‰ƒCƒh’†‚ÉOpenCV‚Ì‰æ‘œ‚ğ•\¦‚·‚éƒTƒ“ƒvƒ‹‚Å‚·B
-
-¦Eel‚ÍElectronƒ‰ƒCƒN‚ÈHTML/JS/CSS‚ÌGUIƒAƒvƒŠ‚ğì¬‚Å‚«‚éƒVƒ“ƒvƒ‹‚Èƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
-
-¦WebSlides‚ÍHTML/CSS/JS‚Åì‚ç‚ê‚½ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‚ÌƒtƒŒ[ƒ€ƒ[ƒN‚Å‚·B
+opencv2webslides_sampleã¯Eelä¸Šã§WebSlidesã‚’å®Ÿè¡Œã—ã€ã‚¹ãƒ©ã‚¤ãƒ‰ä¸­ã«OpenCVã®ç”»åƒã‚’è¡¨ç¤ºã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
+* Eelã¯Electronãƒ©ã‚¤ã‚¯ãªHTML/JS/CSSã®GUIã‚¢ãƒ—ãƒªã‚’ä½œæˆã§ãã‚‹ã‚·ãƒ³ãƒ—ãƒ«ãªãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚
+* WebSlidesã¯HTML/CSS/JSã§ä½œã‚‰ã‚ŒãŸãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã®ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ã§ã™ã€‚
 
 # Requirement
  
@@ -12,16 +10,16 @@ opencv2webslides_sample‚ÍEelã‚ÅWebSlides‚ğÀs‚µAƒXƒ‰ƒCƒh’†‚ÉOpenCV‚Ì‰æ‘œ‚ğ•\
  
 # Usage
  
-ƒTƒ“ƒvƒ‹‚ÌÀs•û–@‚ÍˆÈ‰º‚Å‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®å®Ÿè¡Œæ–¹æ³•ã¯ä»¥ä¸‹ã§ã™ã€‚
 
-WebƒJƒƒ‰‚ªPC‚ÉÚ‘±‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚·B
+Webã‚«ãƒ¡ãƒ©ãŒPCã«æ¥ç¶šã•ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
  
 ```bash
 python opencv2webslides.py
 ```
 
 # Author
-‚‹´‚©‚¸‚Ğ‚Æ
+é«˜æ©‹ã‹ãšã²ã¨
  
 # License 
 cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
