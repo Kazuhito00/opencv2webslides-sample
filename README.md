@@ -34,6 +34,8 @@ python opencv2webslides.py
 opencv2webslides-sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 # WebSlides 1.5.0 License 
+WebSlides(https://webslides.tv/)のライセンスは以下の通りです。
+
 MIT License
 
 Copyright (c) 2017 José Luis Antúnez
